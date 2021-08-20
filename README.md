@@ -9,4 +9,4 @@
 ##### O objetivo deste repositório é guardar os meus códigos.
 ##### Acredito que muito poderá ser reaproveitado e também é legal acompanhar a minha evolução.
 
-![alt text](https://raw.githubusercontent.com/gabrielacaesar/master-insper-dados-automacao-data-storytelling/main/img/foto-welcome.png)
+![alt text]<img src="https://raw.githubusercontent.com/gabrielacaesar/master-insper-dados-automacao-data-storytelling/main/img/foto-welcome.png" width="100" height="100">
