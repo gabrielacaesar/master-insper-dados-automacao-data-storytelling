@@ -3,7 +3,7 @@
 
 ##### Sou a [Gabriela Caesar](gabrielacaesar.com) :)
 
-##### Este é o repositório usado para as aulas do Master.
+##### Este é o repositório usado para as aulas do [Master](https://www.insper.edu.br/pos-graduacao/master-em-jornalismo-de-dados-automacao-e-data-storytelling/).
 ##### Os códigos são, principalmente, em Python, linguagem que estou aprendendo.
 
 ##### O objetivo deste repositório é guardar os meus códigos.
